@@ -7,7 +7,7 @@
 ######  Using the patterns we’ll be trying to predict a classification- survival or deceased. 
 ###### Titanic dataset - https://www.kaggle.com/c/titanic
 
-##Requirements
+##  Requirements
 ######  Numpy - Array manipulations and computations
 ######  Pandas - Creating data frames and exploring Dataset
 ######  Matplotlib and Seaborn - Visualizing dataset and creating different insightful plots
