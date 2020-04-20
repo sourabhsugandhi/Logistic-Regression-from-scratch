@@ -6,3 +6,9 @@
 ######  test.csv` dataset contains similar information but does not disclose the “ground truth” for each passenger. It’s your job to predict these outcomes.
 ######  Using the patterns we’ll be trying to predict a classification- survival or deceased. 
 ###### Titanic dataset - https://www.kaggle.com/c/titanic
+
+##Requirements
+######  Numpy - Array manipulations and computations
+######  Pandas - Creating data frames and exploring Dataset
+######  Matplotlib and Seaborn - Visualizing dataset and creating different insightful plots
+######  Scikit-learn - Importing Regression Model and different evaluation metrices.
